@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Open+Sans:300|Sanchez&display=swap');
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/button.css");
+
+
+body{
+	font-family:'Sanchez', serif;
+	font-size:0px
+	padding: 0px
+	margin: 0px;
+	background: white;
+	color: white;
+
+}
+
+
+.img-woman{
+width: 500px;
+position: right;
+padding-left: 60px;
+height: 500px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3 {
+	text-align: center;
+	position: center;
+	font-size: 40px;
+    margin: 10px;
+    color: white; 
+    font-family: 'Open Sans', sans-serif;
+
+} 
+
+h4 {
+	text-align: center;
+	position: center;
+	font-size: 40px;
+    margin: 10px;
+    color: #643535;
+
+}
+
+#nous{
+	color: black;
+	display: flex; ;
+}
+
+#texte-nous{
+	padding: 40px;
+	
+}
+
+h5{
+	font-size: 20px;
+}
+
+#texte-description{
+	font-family: 'Open Sans', sans-serif
+	margin-bottom: 40px;
+}
+
+.footer {
+	background:#A55C5C;
+	width:100%;
+   	padding-top:50px;
+	height:40px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+
+ }
+
+ .lips {
+	width: : 30px;
+	justify-content: flex-start;
+	position: center;
+}
+
+ 
+
+
+

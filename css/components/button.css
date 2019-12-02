@@ -1,0 +1,53 @@
+
+
+
+#boutton-droite{
+	font-size: 15px;
+	background-color: white;
+	border-radius: 10px;
+	color: #643535;
+	padding-right: 30px
+	padding-left: 30px;
+	align-content: center;
+	flex-basis: 90px;
+	margin-right: 20px;
+	padding: 5PX 10px;
+	padding-top: 5px;
+}
+
+
+#boutton-droite:hover {
+	text-decoration: underline;
+	color: #643535;
+}
+
+.boutton-notation{
+	background-color: #643535;
+	margin-left: 600px;
+	border-radius: 20px;
+	padding-top: 1px;
+	padding-bottom: 15px;
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	width: 200px;
+}
+
+#starts {
+	color: yellow;
+	border-color: black;
+}
+
+#clic-end{
+	align-content: left;
+	justify-content: space-around;
+	display: flex;
+	flex-grow: 3;
+	flex-basis: 20px;
+	color: white;
+	align-items: flex-start;
+	padding-bottom: : 40px;
+	text-align: center;
+	margin-top: -30px;
+
+}
